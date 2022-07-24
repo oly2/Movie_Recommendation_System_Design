@@ -1,0 +1,3001 @@
+movieID,name,genres,ratingFromIMDB,userID
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,27
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,27
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,27
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,27
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,27
+922,Snapshots,Drama,8.724137931034482,27
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,27
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,27
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,27
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,27
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,231
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,231
+652,Mail Order Wife,Comedy,7.791666666666667,231
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,231
+707,Mudbound,"Drama,War",7.818181818181818,231
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,231
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,231
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,231
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,231
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,231
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,283
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,283
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,283
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,283
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,283
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,283
+1006,The Best Man Holiday,"Comedy,Drama",8.0,283
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,283
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,283
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,283
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,5
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,5
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,5
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,5
+339,Enemy of the State,"Action,Thriller",7.933333333333334,5
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,5
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,5
+922,Snapshots,Drama,8.724137931034482,5
+1006,The Best Man Holiday,"Comedy,Drama",8.0,5
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,5
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,240
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,240
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,240
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,240
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,240
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,240
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,240
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,240
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,240
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,240
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,220
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,220
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,220
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,220
+922,Snapshots,Drama,8.724137931034482,220
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,220
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,220
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,220
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,220
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,220
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,112
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,112
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,112
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,112
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,112
+903,Shaun the Sheep Movie,"Adventure,Animation,Comedy",7.7272727272727275,112
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,112
+918,Slow West,"Action,Adventure,Drama",7.666666666666667,112
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,112
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,112
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,208
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,208
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,208
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,208
+922,Snapshots,Drama,8.724137931034482,208
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,208
+1006,The Best Man Holiday,"Comedy,Drama",8.0,208
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,208
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,208
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,208
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,133
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,133
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,133
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,133
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,133
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,133
+1006,The Best Man Holiday,"Comedy,Drama",8.0,133
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,133
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,133
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,133
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,115
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,115
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,115
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,115
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,115
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,115
+922,Snapshots,Drama,8.724137931034482,115
+1006,The Best Man Holiday,"Comedy,Drama",8.0,115
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,115
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,115
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,89
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,89
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,89
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,89
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,89
+922,Snapshots,Drama,8.724137931034482,89
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,89
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,89
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,89
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,89
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,269
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,269
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,269
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,269
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,269
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,269
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,269
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,269
+922,Snapshots,Drama,8.724137931034482,269
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,269
+7,13,"Crime,Drama,Thriller",7.928571428571429,68
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,68
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,68
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,68
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,68
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,68
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,68
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,68
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,68
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,68
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,191
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,191
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,191
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,191
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,191
+922,Snapshots,Drama,8.724137931034482,191
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,191
+1006,The Best Man Holiday,"Comedy,Drama",8.0,191
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,191
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,191
+7,13,"Crime,Drama,Thriller",7.928571428571429,74
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,74
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,74
+589,La Haine,"Crime,Drama",7.846153846153846,74
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,74
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,74
+922,Snapshots,Drama,8.724137931034482,74
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,74
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,74
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,74
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,76
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,76
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,76
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,76
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,76
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,76
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,76
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,76
+922,Snapshots,Drama,8.724137931034482,76
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,76
+7,13,"Crime,Drama,Thriller",7.928571428571429,146
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,146
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,146
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,146
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,146
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,146
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,146
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,146
+1242,The Wave,"Drama,Thriller",7.923076923076923,146
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,146
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,117
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,117
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,117
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,117
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,117
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,117
+1171,The Others,"Horror,Mystery,Thriller",7.75,117
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,117
+1242,The Wave,"Drama,Thriller",7.923076923076923,117
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,117
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,222
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,222
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,222
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,222
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,222
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,222
+922,Snapshots,Drama,8.724137931034482,222
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,222
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,222
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,222
+7,13,"Crime,Drama,Thriller",7.928571428571429,172
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,172
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,172
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,172
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,172
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,172
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,172
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,172
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,172
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,172
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,97
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,97
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,97
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,97
+339,Enemy of the State,"Action,Thriller",7.933333333333334,97
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,97
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,97
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,97
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,97
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,97
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,75
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,75
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,75
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,75
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,75
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,75
+922,Snapshots,Drama,8.724137931034482,75
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,75
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,75
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,75
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,147
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,147
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,147
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,147
+922,Snapshots,Drama,8.724137931034482,147
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,147
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,147
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,147
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,147
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,147
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,64
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,64
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,64
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,64
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,64
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,64
+1006,The Best Man Holiday,"Comedy,Drama",8.0,64
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,64
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,64
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,64
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,109
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,109
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,109
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,109
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,109
+922,Snapshots,Drama,8.724137931034482,109
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,109
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,109
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,109
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,109
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,82
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,82
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,82
+472,Heaven & Earth,"Action,Biography,Drama",7.5,82
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,82
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,82
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,82
+922,Snapshots,Drama,8.724137931034482,82
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,82
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,82
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,41
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,41
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,41
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,41
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,41
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,41
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,41
+922,Snapshots,Drama,8.724137931034482,41
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,41
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,41
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,196
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,196
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,196
+652,Mail Order Wife,Comedy,7.791666666666667,196
+707,Mudbound,"Drama,War",7.818181818181818,196
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,196
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,196
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,196
+922,Snapshots,Drama,8.724137931034482,196
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,196
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,79
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,79
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,79
+339,Enemy of the State,"Action,Thriller",7.933333333333334,79
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,79
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,79
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,79
+1171,The Others,"Horror,Mystery,Thriller",7.75,79
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,79
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,79
+589,La Haine,"Crime,Drama",7.846153846153846,181
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,181
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,181
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,181
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,181
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,181
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,181
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,181
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,181
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,181
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,116
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,116
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,116
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,116
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,116
+922,Snapshots,Drama,8.724137931034482,116
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,116
+1006,The Best Man Holiday,"Comedy,Drama",8.0,116
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,116
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,116
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,171
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,171
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,171
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,171
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,171
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,171
+864,Rosewood,"Action,Drama,History",8.090909090909092,171
+877,Saving Face,"Comedy,Drama,Romance",7.625,171
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,171
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,171
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,259
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,259
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,259
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,259
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,259
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,259
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,259
+922,Snapshots,Drama,8.724137931034482,259
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,259
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,259
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,299
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,299
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,299
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,299
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,299
+922,Snapshots,Drama,8.724137931034482,299
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,299
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,299
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,299
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,299
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,17
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,17
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,17
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,17
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,17
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,17
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,17
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,17
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,17
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,17
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,60
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,60
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,60
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,60
+922,Snapshots,Drama,8.724137931034482,60
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,60
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,60
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,60
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,60
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,60
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,110
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,110
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,110
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,110
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,110
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,110
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,110
+922,Snapshots,Drama,8.724137931034482,110
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,110
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,110
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,178
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,178
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,178
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,178
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,178
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,178
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,178
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,178
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,178
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,178
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,96
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,96
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,96
+922,Snapshots,Drama,8.724137931034482,96
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,96
+1006,The Best Man Holiday,"Comedy,Drama",8.0,96
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,96
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,96
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,96
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,96
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,38
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,38
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,38
+339,Enemy of the State,"Action,Thriller",7.933333333333334,38
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,38
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,38
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,38
+922,Snapshots,Drama,8.724137931034482,38
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,38
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,38
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,157
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,157
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,157
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,157
+339,Enemy of the State,"Action,Thriller",7.933333333333334,157
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,157
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,157
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,157
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,157
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,157
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,265
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,265
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,265
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,265
+339,Enemy of the State,"Action,Thriller",7.933333333333334,265
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,265
+750,Office Space,Comedy,7.666666666666667,265
+922,Snapshots,Drama,8.724137931034482,265
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,265
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,265
+7,13,"Crime,Drama,Thriller",7.928571428571429,70
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,70
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,70
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,70
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,70
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,70
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,70
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,70
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,70
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,70
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,149
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,149
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,149
+333,Election,"Comedy,Romance",7.529411764705882,149
+339,Enemy of the State,"Action,Thriller",7.933333333333334,149
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,149
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,149
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,149
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,149
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,149
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,183
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,183
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,183
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,183
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,183
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,183
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,183
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,183
+922,Snapshots,Drama,8.724137931034482,183
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,183
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,142
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,142
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,142
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,142
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,142
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,142
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,142
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,142
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,142
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,142
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,136
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,136
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,136
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,136
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,136
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,136
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,136
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,136
+922,Snapshots,Drama,8.724137931034482,136
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,136
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,185
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,185
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,185
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,185
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,185
+922,Snapshots,Drama,8.724137931034482,185
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,185
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,185
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,185
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,185
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,234
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,234
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,234
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,234
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,234
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,234
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,234
+1006,The Best Man Holiday,"Comedy,Drama",8.0,234
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,234
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,234
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,292
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,292
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,292
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,292
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,292
+922,Snapshots,Drama,8.724137931034482,292
+1006,The Best Man Holiday,"Comedy,Drama",8.0,292
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,292
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,292
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,292
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,177
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,177
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,177
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,177
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,177
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,177
+1171,The Others,"Horror,Mystery,Thriller",7.75,177
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,177
+1217,The Tao of Steve,"Comedy,Drama,Romance",7.615384615384615,177
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,177
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,35
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,35
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,35
+339,Enemy of the State,"Action,Thriller",7.933333333333334,35
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,35
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,35
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,35
+922,Snapshots,Drama,8.724137931034482,35
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,35
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,35
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,257
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,257
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,257
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,257
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,257
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,257
+922,Snapshots,Drama,8.724137931034482,257
+1006,The Best Man Holiday,"Comedy,Drama",8.0,257
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,257
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,257
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,190
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,190
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,190
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,190
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,190
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,190
+1171,The Others,"Horror,Mystery,Thriller",7.75,190
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,190
+1242,The Wave,"Drama,Thriller",7.923076923076923,190
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,190
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,81
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,81
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,81
+339,Enemy of the State,"Action,Thriller",7.933333333333334,81
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,81
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,81
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,81
+922,Snapshots,Drama,8.724137931034482,81
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,81
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,81
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,275
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,275
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,275
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,275
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,275
+922,Snapshots,Drama,8.724137931034482,275
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,275
+1006,The Best Man Holiday,"Comedy,Drama",8.0,275
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,275
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,275
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,255
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,255
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,255
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,255
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,255
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,255
+922,Snapshots,Drama,8.724137931034482,255
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,255
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,255
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,255
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,15
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,15
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,15
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,15
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,15
+922,Snapshots,Drama,8.724137931034482,15
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,15
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,15
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,15
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,15
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,46
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,46
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,46
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,46
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,46
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,46
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,46
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,46
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,46
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,46
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,235
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,235
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,235
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,235
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,235
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,235
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,235
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,235
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,235
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,235
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,174
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,174
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,174
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,174
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,174
+1242,The Wave,"Drama,Thriller",7.923076923076923,174
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,174
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,174
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,174
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,174
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,111
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,111
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,111
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,111
+922,Snapshots,Drama,8.724137931034482,111
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,111
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,111
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,111
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,111
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,111
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,67
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,67
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,67
+903,Shaun the Sheep Movie,"Adventure,Animation,Comedy",7.7272727272727275,67
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,67
+918,Slow West,"Action,Adventure,Drama",7.666666666666667,67
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,67
+922,Snapshots,Drama,8.724137931034482,67
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,67
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,67
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,9
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,9
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,9
+922,Snapshots,Drama,8.724137931034482,9
+1006,The Best Man Holiday,"Comedy,Drama",8.0,9
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,9
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,9
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,9
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,9
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,9
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,217
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,217
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,217
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,217
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,217
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,217
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,217
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,217
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,217
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,217
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,186
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,186
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,186
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,186
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,186
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,186
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,186
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,186
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,186
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,186
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,216
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,216
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,216
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,216
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,216
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,216
+922,Snapshots,Drama,8.724137931034482,216
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,216
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,216
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,216
+7,13,"Crime,Drama,Thriller",7.928571428571429,56
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,56
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,56
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,56
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,56
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,56
+339,Enemy of the State,"Action,Thriller",7.933333333333334,56
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,56
+750,Office Space,Comedy,7.666666666666667,56
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,56
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,250
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,250
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,250
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,250
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,250
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,250
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,250
+922,Snapshots,Drama,8.724137931034482,250
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,250
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,250
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,256
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,256
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,256
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,256
+1006,The Best Man Holiday,"Comedy,Drama",8.0,256
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,256
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,256
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,256
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,256
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,256
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,19
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,19
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,19
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,19
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,19
+922,Snapshots,Drama,8.724137931034482,19
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,19
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,19
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,19
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,19
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,25
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,25
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,25
+339,Enemy of the State,"Action,Thriller",7.933333333333334,25
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,25
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,25
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,25
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,25
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,25
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,25
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,184
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,184
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,184
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,184
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,184
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,184
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,184
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,184
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,184
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,184
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,239
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,239
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,239
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,239
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,239
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,239
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,239
+922,Snapshots,Drama,8.724137931034482,239
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,239
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,239
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,93
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,93
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,93
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,93
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,93
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,93
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,93
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,93
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,93
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,93
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,57
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,57
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,57
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,57
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,57
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,57
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,57
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,57
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,57
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,57
+7,13,"Crime,Drama,Thriller",7.928571428571429,16
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,16
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,16
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,16
+339,Enemy of the State,"Action,Thriller",7.933333333333334,16
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,16
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,16
+922,Snapshots,Drama,8.724137931034482,16
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,16
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,16
+7,13,"Crime,Drama,Thriller",7.928571428571429,144
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,144
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,144
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,144
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,144
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,144
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,144
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,144
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,144
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,144
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,29
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,29
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,29
+412,Gifted,Drama,7.916666666666667,29
+422,Gods and Monsters,"Biography,Drama",7.7,29
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,29
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,29
+1006,The Best Man Holiday,"Comedy,Drama",8.0,29
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,29
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,29
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,26
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,26
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,26
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,26
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,26
+1006,The Best Man Holiday,"Comedy,Drama",8.0,26
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,26
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,26
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,26
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,26
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,179
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,179
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,179
+652,Mail Order Wife,Comedy,7.791666666666667,179
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,179
+707,Mudbound,"Drama,War",7.818181818181818,179
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,179
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,179
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,179
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,179
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,286
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,286
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,286
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,286
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,286
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,286
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,286
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,286
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,286
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,286
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,104
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,104
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,104
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,104
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,104
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,104
+652,Mail Order Wife,Comedy,7.791666666666667,104
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,104
+707,Mudbound,"Drama,War",7.818181818181818,104
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,104
+7,13,"Crime,Drama,Thriller",7.928571428571429,91
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,91
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,91
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,91
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,91
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,91
+339,Enemy of the State,"Action,Thriller",7.933333333333334,91
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,91
+922,Snapshots,Drama,8.724137931034482,91
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,91
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,223
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,223
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,223
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,223
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,223
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,223
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,223
+922,Snapshots,Drama,8.724137931034482,223
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,223
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,223
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,206
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,206
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,206
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,206
+707,Mudbound,"Drama,War",7.818181818181818,206
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,206
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,206
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,206
+922,Snapshots,Drama,8.724137931034482,206
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,206
+7,13,"Crime,Drama,Thriller",7.928571428571429,108
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,108
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,108
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,108
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,108
+339,Enemy of the State,"Action,Thriller",7.933333333333334,108
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,108
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,108
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,108
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,108
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,258
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,258
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,258
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,258
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,258
+922,Snapshots,Drama,8.724137931034482,258
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,258
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,258
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,258
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,258
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,194
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,194
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,194
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,194
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,194
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,194
+922,Snapshots,Drama,8.724137931034482,194
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,194
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,194
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,194
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,126
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,126
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,126
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,126
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,126
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,126
+922,Snapshots,Drama,8.724137931034482,126
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,126
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,126
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,126
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,279
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,279
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,279
+333,Election,"Comedy,Romance",7.529411764705882,279
+339,Enemy of the State,"Action,Thriller",7.933333333333334,279
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,279
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,279
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,279
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,279
+1006,The Best Man Holiday,"Comedy,Drama",8.0,279
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,90
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,90
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,90
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,90
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,90
+922,Snapshots,Drama,8.724137931034482,90
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,90
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,90
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,90
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,90
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,80
+903,Shaun the Sheep Movie,"Adventure,Animation,Comedy",7.7272727272727275,80
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,80
+918,Slow West,"Action,Adventure,Drama",7.666666666666667,80
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,80
+922,Snapshots,Drama,8.724137931034482,80
+948,Stalingrad,"Drama,War",7.461538461538462,80
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,80
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,80
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,80
+7,13,"Crime,Drama,Thriller",7.928571428571429,161
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,161
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,161
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,161
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,161
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,161
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,161
+922,Snapshots,Drama,8.724137931034482,161
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,161
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,161
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,287
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,287
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,287
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,287
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,287
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,287
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,287
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,287
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,287
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,287
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,71
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,71
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,71
+652,Mail Order Wife,Comedy,7.791666666666667,71
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,71
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,71
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,71
+922,Snapshots,Drama,8.724137931034482,71
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,71
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,71
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,268
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,268
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,268
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,268
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,268
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,268
+922,Snapshots,Drama,8.724137931034482,268
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,268
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,268
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,268
+7,13,"Crime,Drama,Thriller",7.928571428571429,141
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,141
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,141
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,141
+922,Snapshots,Drama,8.724137931034482,141
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,141
+1006,The Best Man Holiday,"Comedy,Drama",8.0,141
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,141
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,141
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,141
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,18
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,18
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,18
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,18
+1006,The Best Man Holiday,"Comedy,Drama",8.0,18
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,18
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,18
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,18
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,18
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,18
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,238
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,238
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,238
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,238
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,238
+922,Snapshots,Drama,8.724137931034482,238
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,238
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,238
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,238
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,238
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,150
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,150
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,150
+922,Snapshots,Drama,8.724137931034482,150
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,150
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,150
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,150
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,150
+1242,The Wave,"Drama,Thriller",7.923076923076923,150
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,150
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,159
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,159
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,159
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,159
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,159
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,159
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,159
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,159
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,159
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,159
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,236
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,236
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,236
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,236
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,236
+1006,The Best Man Holiday,"Comedy,Drama",8.0,236
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,236
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,236
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,236
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,236
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,251
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,251
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,251
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,251
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,251
+922,Snapshots,Drama,8.724137931034482,251
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,251
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,251
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,251
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,251
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,211
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,211
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,211
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,211
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,211
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,211
+922,Snapshots,Drama,8.724137931034482,211
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,211
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,211
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,211
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,50
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,50
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,50
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,50
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,50
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,50
+922,Snapshots,Drama,8.724137931034482,50
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,50
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,50
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,50
+7,13,"Crime,Drama,Thriller",7.928571428571429,85
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,85
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,85
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,85
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,85
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,85
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,85
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,85
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,85
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,85
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,212
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,212
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,212
+339,Enemy of the State,"Action,Thriller",7.933333333333334,212
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,212
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,212
+922,Snapshots,Drama,8.724137931034482,212
+1006,The Best Man Holiday,"Comedy,Drama",8.0,212
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,212
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,212
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,264
+922,Snapshots,Drama,8.724137931034482,264
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,264
+1006,The Best Man Holiday,"Comedy,Drama",8.0,264
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,264
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,264
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,264
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,264
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,264
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,264
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,7
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,7
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,7
+333,Election,"Comedy,Romance",7.529411764705882,7
+339,Enemy of the State,"Action,Thriller",7.933333333333334,7
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,7
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,7
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,7
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,7
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,7
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,285
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,285
+472,Heaven & Earth,"Action,Biography,Drama",7.5,285
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,285
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,285
+922,Snapshots,Drama,8.724137931034482,285
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,285
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,285
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,285
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,285
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,210
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,210
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,210
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,210
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,210
+922,Snapshots,Drama,8.724137931034482,210
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,210
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,210
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,210
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,210
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,197
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,197
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,197
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,197
+339,Enemy of the State,"Action,Thriller",7.933333333333334,197
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,197
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,197
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,197
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,197
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,197
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,33
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,33
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,33
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,33
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,33
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,33
+922,Snapshots,Drama,8.724137931034482,33
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,33
+1242,The Wave,"Drama,Thriller",7.923076923076923,33
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,33
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,123
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,123
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,123
+586,Krrish,"Action,Adventure,Sci-Fi",7.473684210526316,123
+589,La Haine,"Crime,Drama",7.846153846153846,123
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,123
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,123
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,123
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,123
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,123
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,227
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,227
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,227
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,227
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,227
+922,Snapshots,Drama,8.724137931034482,227
+1006,The Best Man Holiday,"Comedy,Drama",8.0,227
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,227
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,227
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,227
+7,13,"Crime,Drama,Thriller",7.928571428571429,163
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,163
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,163
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,163
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,163
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,163
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,163
+922,Snapshots,Drama,8.724137931034482,163
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,163
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,163
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,124
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,124
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,124
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,124
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,124
+922,Snapshots,Drama,8.724137931034482,124
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,124
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,124
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,124
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,124
+7,13,"Crime,Drama,Thriller",7.928571428571429,242
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,242
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,242
+589,La Haine,"Crime,Drama",7.846153846153846,242
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,242
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,242
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,242
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,242
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,242
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,242
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,290
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,290
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,290
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,290
+922,Snapshots,Drama,8.724137931034482,290
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,290
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,290
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,290
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,290
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,290
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,280
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,280
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,280
+652,Mail Order Wife,Comedy,7.791666666666667,280
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,280
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,280
+1242,The Wave,"Drama,Thriller",7.923076923076923,280
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,280
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,280
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,280
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,274
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,274
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,274
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,274
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,274
+922,Snapshots,Drama,8.724137931034482,274
+1006,The Best Man Holiday,"Comedy,Drama",8.0,274
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,274
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,274
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,274
+7,13,"Crime,Drama,Thriller",7.928571428571429,230
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,230
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,230
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,230
+922,Snapshots,Drama,8.724137931034482,230
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,230
+1006,The Best Man Holiday,"Comedy,Drama",8.0,230
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,230
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,230
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,230
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,40
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,40
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,40
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,40
+922,Snapshots,Drama,8.724137931034482,40
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,40
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,40
+1171,The Others,"Horror,Mystery,Thriller",7.75,40
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,40
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,40
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,55
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,55
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,55
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,55
+1006,The Best Man Holiday,"Comedy,Drama",8.0,55
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,55
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,55
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,55
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,55
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,55
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,122
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,122
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,122
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,122
+1006,The Best Man Holiday,"Comedy,Drama",8.0,122
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,122
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,122
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,122
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,122
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,122
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,138
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,138
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,138
+339,Enemy of the State,"Action,Thriller",7.933333333333334,138
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,138
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,138
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,138
+922,Snapshots,Drama,8.724137931034482,138
+1006,The Best Man Holiday,"Comedy,Drama",8.0,138
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,138
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,102
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,102
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,102
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,102
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,102
+922,Snapshots,Drama,8.724137931034482,102
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,102
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,102
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,102
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,102
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,189
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,189
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,189
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,189
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,189
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,189
+922,Snapshots,Drama,8.724137931034482,189
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,189
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,189
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,189
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,30
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,30
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,30
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,30
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,30
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,30
+922,Snapshots,Drama,8.724137931034482,30
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,30
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,30
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,30
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,213
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,213
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,213
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,213
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,213
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,213
+922,Snapshots,Drama,8.724137931034482,213
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,213
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,213
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,213
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,65
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,65
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,65
+707,Mudbound,"Drama,War",7.818181818181818,65
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,65
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,65
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,65
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,65
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,65
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,65
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,151
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,151
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,151
+922,Snapshots,Drama,8.724137931034482,151
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,151
+1006,The Best Man Holiday,"Comedy,Drama",8.0,151
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,151
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,151
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,151
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,151
+7,13,"Crime,Drama,Thriller",7.928571428571429,105
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,105
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,105
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,105
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,105
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,105
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,105
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,105
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,105
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,105
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,224
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,224
+412,Gifted,Drama,7.916666666666667,224
+422,Gods and Monsters,"Biography,Drama",7.7,224
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,224
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,224
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,224
+922,Snapshots,Drama,8.724137931034482,224
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,224
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,224
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,101
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,101
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,101
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,101
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,101
+922,Snapshots,Drama,8.724137931034482,101
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,101
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,101
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,101
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,101
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,271
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,271
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,271
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,271
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,271
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,271
+922,Snapshots,Drama,8.724137931034482,271
+1006,The Best Man Holiday,"Comedy,Drama",8.0,271
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,271
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,271
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,233
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,233
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,233
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,233
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,233
+1006,The Best Man Holiday,"Comedy,Drama",8.0,233
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,233
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,233
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,233
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,233
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,246
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,246
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,246
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,246
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,246
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,246
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,246
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,246
+922,Snapshots,Drama,8.724137931034482,246
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,246
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,22
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,22
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,22
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,22
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,22
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,22
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,22
+922,Snapshots,Drama,8.724137931034482,22
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,22
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,22
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,47
+589,La Haine,"Crime,Drama",7.846153846153846,47
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,47
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,47
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,47
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,47
+922,Snapshots,Drama,8.724137931034482,47
+1242,The Wave,"Drama,Thriller",7.923076923076923,47
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,47
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,47
+7,13,"Crime,Drama,Thriller",7.928571428571429,145
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,145
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,145
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,145
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,145
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,145
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,145
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,145
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,145
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,145
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,134
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,134
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,134
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,134
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,134
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,134
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,134
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,134
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,134
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,134
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,182
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,182
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,182
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,182
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,182
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,182
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,182
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,182
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,182
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,182
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,289
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,289
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,289
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,289
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,289
+922,Snapshots,Drama,8.724137931034482,289
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,289
+1006,The Best Man Holiday,"Comedy,Drama",8.0,289
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,289
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,289
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,83
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,83
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,83
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,83
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,83
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,83
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,83
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,83
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,83
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,83
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,252
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,252
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,252
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,252
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,252
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,252
+1171,The Others,"Horror,Mystery,Thriller",7.75,252
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,252
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,252
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,252
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,244
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,244
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,244
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,244
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,244
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,244
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,244
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,244
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,244
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,244
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,228
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,228
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,228
+1006,The Best Man Holiday,"Comedy,Drama",8.0,228
+1046,The Death of Stalin,"Comedy,Drama,History",8.181818181818182,228
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,228
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,228
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,228
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,228
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,228
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,154
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,154
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,154
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,154
+922,Snapshots,Drama,8.724137931034482,154
+1006,The Best Man Holiday,"Comedy,Drama",8.0,154
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,154
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,154
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,154
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,154
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,107
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,107
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,107
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,107
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,107
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,107
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,107
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,107
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,107
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,107
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,92
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,92
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,92
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,92
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,92
+1006,The Best Man Holiday,"Comedy,Drama",8.0,92
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,92
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,92
+1242,The Wave,"Drama,Thriller",7.923076923076923,92
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,92
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,43
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,43
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,43
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,43
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,43
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,43
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,43
+922,Snapshots,Drama,8.724137931034482,43
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,43
+1006,The Best Man Holiday,"Comedy,Drama",8.0,43
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,155
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,155
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,155
+258,Cracks,"Drama,Thriller",7.5,155
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,155
+276,Dark City,"Fantasy,Mystery,Sci-Fi",8.076923076923077,155
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,155
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,155
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,155
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,155
+7,13,"Crime,Drama,Thriller",7.928571428571429,167
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,167
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,167
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,167
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,167
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,167
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,167
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,167
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,167
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,167
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,166
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,166
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,166
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,166
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,166
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,166
+1006,The Best Man Holiday,"Comedy,Drama",8.0,166
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,166
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,166
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,166
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,6
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,6
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,6
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,6
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,6
+1006,The Best Man Holiday,"Comedy,Drama",8.0,6
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,6
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,6
+1242,The Wave,"Drama,Thriller",7.923076923076923,6
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,6
+276,Dark City,"Fantasy,Mystery,Sci-Fi",8.076923076923077,262
+280,David & Layla,"Comedy,Drama,Romance",7.9523809523809526,262
+284,Dead Man Walking,"Crime,Drama",7.818181818181818,262
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,262
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,262
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,262
+339,Enemy of the State,"Action,Thriller",7.933333333333334,262
+351,Fahrenheit 11/9,Documentary,7.333333333333333,262
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,262
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,262
+7,13,"Crime,Drama,Thriller",7.928571428571429,205
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,205
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,205
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,205
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,205
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,205
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,205
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,205
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,205
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,205
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,23
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,23
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,23
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,23
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,23
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,23
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,23
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,23
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,23
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,23
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,44
+472,Heaven & Earth,"Action,Biography,Drama",7.5,44
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,44
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,44
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,44
+922,Snapshots,Drama,8.724137931034482,44
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,44
+1006,The Best Man Holiday,"Comedy,Drama",8.0,44
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,44
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,44
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,34
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,34
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,34
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,34
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,34
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,34
+1006,The Best Man Holiday,"Comedy,Drama",8.0,34
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,34
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,34
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,34
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,61
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,61
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,61
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,61
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,61
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,61
+922,Snapshots,Drama,8.724137931034482,61
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,61
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,61
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,61
+7,13,"Crime,Drama,Thriller",7.928571428571429,2
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,2
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,2
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,2
+472,Heaven & Earth,"Action,Biography,Drama",7.5,2
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,2
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,2
+922,Snapshots,Drama,8.724137931034482,2
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,2
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,2
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,176
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,176
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,176
+922,Snapshots,Drama,8.724137931034482,176
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,176
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,176
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,176
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,176
+1242,The Wave,"Drama,Thriller",7.923076923076923,176
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,176
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,164
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,164
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,164
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,164
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,164
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,164
+922,Snapshots,Drama,8.724137931034482,164
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,164
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,164
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,164
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,248
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,248
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,248
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,248
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,248
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,248
+922,Snapshots,Drama,8.724137931034482,248
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,248
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,248
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,248
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,114
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,114
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,114
+1006,The Best Man Holiday,"Comedy,Drama",8.0,114
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,114
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,114
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,114
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,114
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,114
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,114
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,59
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,59
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,59
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,59
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,59
+922,Snapshots,Drama,8.724137931034482,59
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,59
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,59
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,59
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,59
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,13
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,13
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,13
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,13
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,13
+922,Snapshots,Drama,8.724137931034482,13
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,13
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,13
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,13
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,13
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,54
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,54
+652,Mail Order Wife,Comedy,7.791666666666667,54
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,54
+707,Mudbound,"Drama,War",7.818181818181818,54
+922,Snapshots,Drama,8.724137931034482,54
+1006,The Best Man Holiday,"Comedy,Drama",8.0,54
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,54
+1171,The Others,"Horror,Mystery,Thriller",7.75,54
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,54
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,130
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,130
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,130
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,130
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,130
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,130
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,130
+1006,The Best Man Holiday,"Comedy,Drama",8.0,130
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,130
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,130
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,95
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,95
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,95
+472,Heaven & Earth,"Action,Biography,Drama",7.5,95
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,95
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,95
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,95
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,95
+922,Snapshots,Drama,8.724137931034482,95
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,95
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,106
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,106
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,106
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,106
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,106
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,106
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,106
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,106
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,106
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,106
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,281
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,281
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,281
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,281
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,281
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,281
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,281
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,281
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,281
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,281
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,300
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,300
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,300
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,300
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,300
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,300
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,300
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,300
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,300
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,300
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,253
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,253
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,253
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,253
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,253
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,253
+922,Snapshots,Drama,8.724137931034482,253
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,253
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,253
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,253
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,62
+589,La Haine,"Crime,Drama",7.846153846153846,62
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,62
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,62
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,62
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,62
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,62
+1171,The Others,"Horror,Mystery,Thriller",7.75,62
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,62
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,62
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,119
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,119
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,119
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,119
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,119
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,119
+922,Snapshots,Drama,8.724137931034482,119
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,119
+1006,The Best Man Holiday,"Comedy,Drama",8.0,119
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,119
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,118
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,118
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,118
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,118
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,118
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,118
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,118
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,118
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,118
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,118
+7,13,"Crime,Drama,Thriller",7.928571428571429,139
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,139
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,139
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,139
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,139
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,139
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,139
+922,Snapshots,Drama,8.724137931034482,139
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,139
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,139
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,100
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,100
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,100
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,100
+652,Mail Order Wife,Comedy,7.791666666666667,100
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,100
+707,Mudbound,"Drama,War",7.818181818181818,100
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,100
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,100
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,100
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,73
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,73
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,73
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,73
+922,Snapshots,Drama,8.724137931034482,73
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,73
+1006,The Best Man Holiday,"Comedy,Drama",8.0,73
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,73
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,73
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,73
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,297
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,297
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,297
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,297
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,297
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,297
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,297
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,297
+922,Snapshots,Drama,8.724137931034482,297
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,297
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,245
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,245
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,245
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,245
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,245
+922,Snapshots,Drama,8.724137931034482,245
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,245
+1242,The Wave,"Drama,Thriller",7.923076923076923,245
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,245
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,245
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,270
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,270
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,270
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,270
+922,Snapshots,Drama,8.724137931034482,270
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,270
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,270
+1006,The Best Man Holiday,"Comedy,Drama",8.0,270
+1242,The Wave,"Drama,Thriller",7.923076923076923,270
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,270
+7,13,"Crime,Drama,Thriller",7.928571428571429,214
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,214
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,214
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,214
+339,Enemy of the State,"Action,Thriller",7.933333333333334,214
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,214
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,214
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,214
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,214
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,214
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,58
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,58
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,58
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,58
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,58
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,58
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,58
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,58
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,58
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,58
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,219
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,219
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,219
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,219
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,219
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,219
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,219
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,219
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,219
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,219
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,225
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,225
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,225
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,225
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,225
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,225
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,225
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,225
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,225
+922,Snapshots,Drama,8.724137931034482,225
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,298
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,298
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,298
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,298
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,298
+258,Cracks,"Drama,Thriller",7.5,298
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,298
+1006,The Best Man Holiday,"Comedy,Drama",8.0,298
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,298
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,298
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,260
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,260
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,260
+652,Mail Order Wife,Comedy,7.791666666666667,260
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,260
+707,Mudbound,"Drama,War",7.818181818181818,260
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,260
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,260
+922,Snapshots,Drama,8.724137931034482,260
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,260
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,152
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,152
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,152
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,152
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,152
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,152
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,152
+1171,The Others,"Horror,Mystery,Thriller",7.75,152
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,152
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,152
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,173
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,173
+589,La Haine,"Crime,Drama",7.846153846153846,173
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,173
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,173
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,173
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,173
+922,Snapshots,Drama,8.724137931034482,173
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,173
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,173
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,143
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,143
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,143
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,143
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,143
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,143
+922,Snapshots,Drama,8.724137931034482,143
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,143
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,143
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,143
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,273
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,273
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,273
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,273
+1006,The Best Man Holiday,"Comedy,Drama",8.0,273
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,273
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,273
+1297,"Two Days, One Night",Drama,7.545454545454546,273
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,273
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,273
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,180
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,180
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,180
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,180
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,180
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,180
+922,Snapshots,Drama,8.724137931034482,180
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,180
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,180
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,180
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,127
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,127
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,127
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,127
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,127
+922,Snapshots,Drama,8.724137931034482,127
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,127
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,127
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,127
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,127
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,187
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,187
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,187
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,187
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,187
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,187
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,187
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,187
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,187
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,187
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,175
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,175
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,175
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,175
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,175
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,175
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,175
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,175
+922,Snapshots,Drama,8.724137931034482,175
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,175
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,3
+284,Dead Man Walking,"Crime,Drama",7.818181818181818,3
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,3
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,3
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,3
+333,Election,"Comedy,Romance",7.529411764705882,3
+339,Enemy of the State,"Action,Thriller",7.933333333333334,3
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,3
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,3
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,3
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,192
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,192
+922,Snapshots,Drama,8.724137931034482,192
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,192
+1006,The Best Man Holiday,"Comedy,Drama",8.0,192
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,192
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,192
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,192
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,192
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,192
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,137
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,137
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,137
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,137
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,137
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,137
+1006,The Best Man Holiday,"Comedy,Drama",8.0,137
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,137
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,137
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,137
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,99
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,99
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,99
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,99
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,99
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,99
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,99
+922,Snapshots,Drama,8.724137931034482,99
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,99
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,99
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,288
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,288
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,288
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,288
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,288
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,288
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,288
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,288
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,288
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,288
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,200
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,200
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,200
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,200
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,200
+922,Snapshots,Drama,8.724137931034482,200
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,200
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,200
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,200
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,200
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,243
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,243
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,243
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,243
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,243
+1006,The Best Man Holiday,"Comedy,Drama",8.0,243
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,243
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,243
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,243
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,243
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,241
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,241
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,241
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,241
+922,Snapshots,Drama,8.724137931034482,241
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,241
+1006,The Best Man Holiday,"Comedy,Drama",8.0,241
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,241
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,241
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,241
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,72
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,72
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,72
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,72
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,72
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,72
+1006,The Best Man Holiday,"Comedy,Drama",8.0,72
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,72
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,72
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,72
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,77
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,77
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,77
+339,Enemy of the State,"Action,Thriller",7.933333333333334,77
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,77
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,77
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,77
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,77
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,77
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,77
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,169
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,169
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,169
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,169
+922,Snapshots,Drama,8.724137931034482,169
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,169
+1242,The Wave,"Drama,Thriller",7.923076923076923,169
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,169
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,169
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,169
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,128
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,128
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,128
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,128
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,128
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,128
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,128
+922,Snapshots,Drama,8.724137931034482,128
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,128
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,128
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,232
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,232
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,232
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,232
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,232
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,232
+922,Snapshots,Drama,8.724137931034482,232
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,232
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,232
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,232
+7,13,"Crime,Drama,Thriller",7.928571428571429,39
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,39
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,39
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,39
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,39
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,39
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,39
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,39
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,39
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,39
+7,13,"Crime,Drama,Thriller",7.928571428571429,294
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,294
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,294
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,294
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,294
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,294
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,294
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,294
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,294
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,294
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,221
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,221
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,221
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,221
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,221
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,221
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,221
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,221
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,221
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,221
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,31
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,31
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,31
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,31
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,31
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,31
+922,Snapshots,Drama,8.724137931034482,31
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,31
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,31
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,31
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,193
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,193
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,193
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,193
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,193
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,193
+922,Snapshots,Drama,8.724137931034482,193
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,193
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,193
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,193
+276,Dark City,"Fantasy,Mystery,Sci-Fi",8.076923076923077,37
+280,David & Layla,"Comedy,Drama,Romance",7.9523809523809526,37
+284,Dead Man Walking,"Crime,Drama",7.818181818181818,37
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,37
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,37
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,37
+333,Election,"Comedy,Romance",7.529411764705882,37
+339,Enemy of the State,"Action,Thriller",7.933333333333334,37
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,37
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,37
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,148
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,148
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,148
+131,Bend It Like Beckham,"Comedy,Drama,Romance",7.666666666666667,148
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,148
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,148
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,148
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,148
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,148
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,148
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,295
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,295
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,295
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,295
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,295
+922,Snapshots,Drama,8.724137931034482,295
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,295
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,295
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,295
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,295
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,207
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,207
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,207
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,207
+276,Dark City,"Fantasy,Mystery,Sci-Fi",8.076923076923077,207
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,207
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,207
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,207
+922,Snapshots,Drama,8.724137931034482,207
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,207
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,66
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,66
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,66
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,66
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,66
+922,Snapshots,Drama,8.724137931034482,66
+1068,The Family That Preys,Drama,7.470588235294118,66
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,66
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,66
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,66
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,121
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,121
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,121
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,121
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,121
+1006,The Best Man Holiday,"Comedy,Drama",8.0,121
+1242,The Wave,"Drama,Thriller",7.923076923076923,121
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,121
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,121
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,121
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,209
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,209
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,209
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,209
+922,Snapshots,Drama,8.724137931034482,209
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,209
+1006,The Best Man Holiday,"Comedy,Drama",8.0,209
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,209
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,209
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,209
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,1
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,1
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,1
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,1
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,1
+922,Snapshots,Drama,8.724137931034482,1
+1006,The Best Man Holiday,"Comedy,Drama",8.0,1
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,1
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,1
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,1
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,8
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,8
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,8
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,8
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,8
+1006,The Best Man Holiday,"Comedy,Drama",8.0,8
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,8
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,8
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,8
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,8
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,28
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,28
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,28
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,28
+922,Snapshots,Drama,8.724137931034482,28
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,28
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,28
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,28
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,28
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,28
+7,13,"Crime,Drama,Thriller",7.928571428571429,202
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,202
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,202
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,202
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,202
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,202
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,202
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,202
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,202
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,202
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,52
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,52
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,52
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,52
+922,Snapshots,Drama,8.724137931034482,52
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,52
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,52
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,52
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,52
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,52
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,49
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,49
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,49
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,49
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,49
+922,Snapshots,Drama,8.724137931034482,49
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,49
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,49
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,49
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,49
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,4
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,4
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,4
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,4
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,4
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,4
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,4
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,4
+922,Snapshots,Drama,8.724137931034482,4
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,4
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,45
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,45
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,45
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,45
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,45
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,45
+922,Snapshots,Drama,8.724137931034482,45
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,45
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,45
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,45
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,204
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,204
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,204
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,204
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,204
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,204
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,204
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,204
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,204
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,204
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,94
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,94
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,94
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,94
+922,Snapshots,Drama,8.724137931034482,94
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,94
+1006,The Best Man Holiday,"Comedy,Drama",8.0,94
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,94
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,94
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,94
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,263
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,263
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,263
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,263
+922,Snapshots,Drama,8.724137931034482,263
+1006,The Best Man Holiday,"Comedy,Drama",8.0,263
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,263
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,263
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,263
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,263
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,168
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,168
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,168
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,168
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,168
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,168
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,168
+1006,The Best Man Holiday,"Comedy,Drama",8.0,168
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,168
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,168
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,160
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,160
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,160
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,160
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,160
+922,Snapshots,Drama,8.724137931034482,160
+1006,The Best Man Holiday,"Comedy,Drama",8.0,160
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,160
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,160
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,160
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,113
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,113
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,113
+652,Mail Order Wife,Comedy,7.791666666666667,113
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,113
+707,Mudbound,"Drama,War",7.818181818181818,113
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,113
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,113
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,113
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,113
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,218
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,218
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,218
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,218
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,218
+922,Snapshots,Drama,8.724137931034482,218
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,218
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,218
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,218
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,218
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,237
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,237
+652,Mail Order Wife,Comedy,7.791666666666667,237
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,237
+707,Mudbound,"Drama,War",7.818181818181818,237
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,237
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,237
+922,Snapshots,Drama,8.724137931034482,237
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,237
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,237
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,272
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,272
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,272
+339,Enemy of the State,"Action,Thriller",7.933333333333334,272
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,272
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,272
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,272
+922,Snapshots,Drama,8.724137931034482,272
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,272
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,272
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,103
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,103
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,103
+922,Snapshots,Drama,8.724137931034482,103
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,103
+1006,The Best Man Holiday,"Comedy,Drama",8.0,103
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,103
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,103
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,103
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,103
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,120
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,120
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,120
+922,Snapshots,Drama,8.724137931034482,120
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,120
+1171,The Others,"Horror,Mystery,Thriller",7.75,120
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,120
+1242,The Wave,"Drama,Thriller",7.923076923076923,120
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,120
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,120
+7,13,"Crime,Drama,Thriller",7.928571428571429,201
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,201
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,201
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,201
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,201
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,201
+922,Snapshots,Drama,8.724137931034482,201
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,201
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,201
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,201
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,293
+472,Heaven & Earth,"Action,Biography,Drama",7.5,293
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,293
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,293
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,293
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,293
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,293
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,293
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,293
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,293
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,12
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,12
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,12
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,12
+750,Office Space,Comedy,7.666666666666667,12
+758,One False Move,"Crime,Drama,Thriller",7.285714285714286,12
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,12
+922,Snapshots,Drama,8.724137931034482,12
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,12
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,12
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,132
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,132
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,132
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,132
+339,Enemy of the State,"Action,Thriller",7.933333333333334,132
+922,Snapshots,Drama,8.724137931034482,132
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,132
+1006,The Best Man Holiday,"Comedy,Drama",8.0,132
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,132
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,132
+7,13,"Crime,Drama,Thriller",7.928571428571429,267
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,267
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,267
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,267
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,267
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,267
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,267
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,267
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,267
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,267
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,51
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,51
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,51
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,51
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,51
+922,Snapshots,Drama,8.724137931034482,51
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,51
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,51
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,51
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,51
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,32
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,32
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,32
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,32
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,32
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,32
+922,Snapshots,Drama,8.724137931034482,32
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,32
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,32
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,32
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,78
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,78
+472,Heaven & Earth,"Action,Biography,Drama",7.5,78
+922,Snapshots,Drama,8.724137931034482,78
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,78
+1006,The Best Man Holiday,"Comedy,Drama",8.0,78
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,78
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,78
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,78
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,78
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,84
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,84
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,84
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,84
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,84
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,84
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,84
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,84
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,84
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,84
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,266
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,266
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,266
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,266
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,266
+922,Snapshots,Drama,8.724137931034482,266
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,266
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,266
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,266
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,266
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,277
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,277
+922,Snapshots,Drama,8.724137931034482,277
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,277
+1171,The Others,"Horror,Mystery,Thriller",7.75,277
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,277
+1242,The Wave,"Drama,Thriller",7.923076923076923,277
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,277
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,277
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,277
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,284
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,284
+472,Heaven & Earth,"Action,Biography,Drama",7.5,284
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,284
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,284
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,284
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,284
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,284
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,284
+922,Snapshots,Drama,8.724137931034482,284
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,165
+652,Mail Order Wife,Comedy,7.791666666666667,165
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,165
+707,Mudbound,"Drama,War",7.818181818181818,165
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,165
+922,Snapshots,Drama,8.724137931034482,165
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,165
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,165
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,165
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,165
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,53
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,53
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,53
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,53
+922,Snapshots,Drama,8.724137931034482,53
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,53
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,53
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,53
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,53
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,53
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,140
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,140
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,140
+922,Snapshots,Drama,8.724137931034482,140
+1006,The Best Man Holiday,"Comedy,Drama",8.0,140
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,140
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,140
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,140
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,140
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,140
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,86
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,86
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,86
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,86
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,86
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,86
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,86
+922,Snapshots,Drama,8.724137931034482,86
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,86
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,86
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,11
+472,Heaven & Earth,"Action,Biography,Drama",7.5,11
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,11
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,11
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,11
+922,Snapshots,Drama,8.724137931034482,11
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,11
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,11
+1006,The Best Man Holiday,"Comedy,Drama",8.0,11
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,11
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,226
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,226
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,226
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,226
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,226
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,226
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,226
+922,Snapshots,Drama,8.724137931034482,226
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,226
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,226
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,254
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,254
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,254
+339,Enemy of the State,"Action,Thriller",7.933333333333334,254
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,254
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,254
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,254
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,254
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,254
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,254
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,291
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,291
+629,Lost and Delirious,"Drama,Romance",7.818181818181818,291
+652,Mail Order Wife,Comedy,7.791666666666667,291
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,291
+707,Mudbound,"Drama,War",7.818181818181818,291
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,291
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,291
+1242,The Wave,"Drama,Thriller",7.923076923076923,291
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,291
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,24
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,24
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,24
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,24
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,24
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,24
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,24
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,24
+1242,The Wave,"Drama,Thriller",7.923076923076923,24
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,24
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,131
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,131
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,131
+472,Heaven & Earth,"Action,Biography,Drama",7.5,131
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,131
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,131
+922,Snapshots,Drama,8.724137931034482,131
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,131
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,131
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,131
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,125
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,125
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,125
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,125
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,125
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,125
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,125
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,125
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,125
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,125
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,261
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,261
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,261
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,261
+922,Snapshots,Drama,8.724137931034482,261
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,261
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,261
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,261
+1379,World Trade Center,"Drama,History,Thriller",7.833333333333333,261
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,261
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,162
+461,Haunter,"Fantasy,Horror,Mystery",7.2105263157894735,162
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,162
+472,Heaven & Earth,"Action,Biography,Drama",7.5,162
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,162
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,162
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,162
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,162
+922,Snapshots,Drama,8.724137931034482,162
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,162
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,249
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,249
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,249
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,249
+922,Snapshots,Drama,8.724137931034482,249
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,249
+1006,The Best Man Holiday,"Comedy,Drama",8.0,249
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,249
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,249
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,249
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,10
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,10
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,10
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,10
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,10
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,10
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,10
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,10
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,10
+922,Snapshots,Drama,8.724137931034482,10
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,198
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,198
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,198
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,198
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,198
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,198
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,198
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,198
+922,Snapshots,Drama,8.724137931034482,198
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,198
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,135
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,135
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,135
+472,Heaven & Earth,"Action,Biography,Drama",7.5,135
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,135
+652,Mail Order Wife,Comedy,7.791666666666667,135
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,135
+707,Mudbound,"Drama,War",7.818181818181818,135
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,135
+922,Snapshots,Drama,8.724137931034482,135
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,88
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,88
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,88
+903,Shaun the Sheep Movie,"Adventure,Animation,Comedy",7.7272727272727275,88
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,88
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,88
+922,Snapshots,Drama,8.724137931034482,88
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,88
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,88
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,88
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,63
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,63
+339,Enemy of the State,"Action,Thriller",7.933333333333334,63
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,63
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,63
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,63
+922,Snapshots,Drama,8.724137931034482,63
+1006,The Best Man Holiday,"Comedy,Drama",8.0,63
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,63
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,63
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,156
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,156
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,156
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,156
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,156
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,156
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,156
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,156
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,156
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,156
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,48
+652,Mail Order Wife,Comedy,7.791666666666667,48
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,48
+707,Mudbound,"Drama,War",7.818181818181818,48
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,48
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,48
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,48
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,48
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,48
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,48
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,247
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,247
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,247
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,247
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,247
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,247
+922,Snapshots,Drama,8.724137931034482,247
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,247
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,247
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,247
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,20
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,20
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,20
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,20
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,20
+339,Enemy of the State,"Action,Thriller",7.933333333333334,20
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,20
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,20
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,20
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,20
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,36
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,36
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,36
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,36
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,36
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,36
+922,Snapshots,Drama,8.724137931034482,36
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,36
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,36
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,36
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,215
+295,Delhi Belly,"Action,Comedy,Crime",8.166666666666666,215
+311,Doctor Strange,"Action,Adventure,Fantasy",8.076923076923077,215
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,215
+339,Enemy of the State,"Action,Thriller",7.933333333333334,215
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,215
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,215
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,215
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,215
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,215
+7,13,"Crime,Drama,Thriller",7.928571428571429,229
+16,"4 Months, 3 Weeks and 2 Days",Drama,8.444444444444445,229
+54,Akeelah and the Bee,"Drama,Family",8.076923076923077,229
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,229
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,229
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,229
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,229
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,229
+922,Snapshots,Drama,8.724137931034482,229
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,229
+205,Captain Fantastic,"Comedy,Drama",7.529411764705882,153
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,153
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,153
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,153
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,153
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,153
+922,Snapshots,Drama,8.724137931034482,153
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,153
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,153
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,153
+190,Brother,"Crime,Drama,Thriller",8.11111111111111,14
+226,Chicago,"Comedy,Crime,Musical",8.307692307692308,14
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,14
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,14
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,14
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,14
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,14
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,14
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,14
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,14
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,21
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,21
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,21
+428,Gone Girl,"Drama,Mystery,Thriller",8.055555555555555,21
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,21
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,21
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,21
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,21
+922,Snapshots,Drama,8.724137931034482,21
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,21
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,276
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,276
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,276
+589,La Haine,"Crime,Drama",7.846153846153846,276
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,276
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,276
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,276
+922,Snapshots,Drama,8.724137931034482,276
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,276
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,276
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,282
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,282
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,282
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,282
+472,Heaven & Earth,"Action,Biography,Drama",7.5,282
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,282
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,282
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,282
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,282
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,282
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,98
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,98
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,98
+922,Snapshots,Drama,8.724137931034482,98
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,98
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,98
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,98
+1171,The Others,"Horror,Mystery,Thriller",7.75,98
+1242,The Wave,"Drama,Thriller",7.923076923076923,98
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,98
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,188
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,188
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,188
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,188
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,188
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,188
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,188
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,188
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,188
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,188
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,278
+652,Mail Order Wife,Comedy,7.791666666666667,278
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,278
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,278
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,278
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,278
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,278
+922,Snapshots,Drama,8.724137931034482,278
+950,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Sci-Fi",8.6,278
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,278
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,129
+254,Cool Runnings,"Adventure,Comedy,Family",7.333333333333333,129
+266,"Crouching Tiger, Hidden Dragon","Action,Adventure,Drama",7.846153846153846,129
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,129
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,129
+922,Snapshots,Drama,8.724137931034482,129
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,129
+1006,The Best Man Holiday,"Comedy,Drama",8.0,129
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,129
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,129
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,199
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,199
+922,Snapshots,Drama,8.724137931034482,199
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,199
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,199
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,199
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,199
+1171,The Others,"Horror,Mystery,Thriller",7.75,199
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,199
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,199
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,195
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,195
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,195
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,195
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,195
+922,Snapshots,Drama,8.724137931034482,195
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,195
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,195
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,195
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,195
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,170
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,170
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,170
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,170
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,170
+922,Snapshots,Drama,8.724137931034482,170
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,170
+1006,The Best Man Holiday,"Comedy,Drama",8.0,170
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,170
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,170
+237,"Clean, Shaven","Crime,Drama,Thriller",8.076923076923077,69
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,69
+669,Mary and Max,"Animation,Comedy,Drama",8.23076923076923,69
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,69
+922,Snapshots,Drama,8.724137931034482,69
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,69
+1006,The Best Man Holiday,"Comedy,Drama",8.0,69
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,69
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,69
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,69
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,42
+909,Shutter Island,"Mystery,Thriller",7.857142857142857,42
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,42
+922,Snapshots,Drama,8.724137931034482,42
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,42
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,42
+1171,The Others,"Horror,Mystery,Thriller",7.75,42
+1196,The Resurrection of Gavin Stone,"Comedy,Drama,Family",8.0,42
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,42
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,42
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,296
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,296
+996,The Angels' Share,"Comedy,Crime,Drama",8.071428571428571,296
+1006,The Best Man Holiday,"Comedy,Drama",8.0,296
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,296
+1297,"Two Days, One Night",Drama,7.545454545454546,296
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,296
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,296
+1379,World Trade Center,"Drama,History,Thriller",7.833333333333333,296
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,296
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,87
+470,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,7.75,87
+472,Heaven & Earth,"Action,Biography,Drama",7.5,87
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,87
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,87
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,87
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,87
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,87
+1145,The Lives of Others,"Drama,Mystery,Thriller",9.0,87
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,87
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,203
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,203
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,203
+838,Remember,"Drama,Mystery,Thriller",8.272727272727273,203
+849,Riding Alone for Thousands of Miles,Drama,8.615384615384615,203
+902,Shaun of the Dead,"Comedy,Horror",8.583333333333334,203
+919,Slumdog Millionaire,"Drama,Romance",8.333333333333334,203
+922,Snapshots,Drama,8.724137931034482,203
+1072,The Filth and the Fury,"Biography,Documentary,Music",9.0,203
+1101,The Hand that Rocks the Cradle,"Drama,Thriller",7.923076923076923,203
+128,Before the Devil Knows You're Dead,"Crime,Drama,Thriller",8.615384615384615,158
+313,Dolemite Is My Name,"Biography,Comedy,Drama",7.714285714285714,158
+401,Frost/Nixon,"Biography,Drama,History",8.272727272727273,158
+617,Little Manhattan,"Comedy,Family,Romance",8.857142857142858,158
+794,Persepolis,"Animation,Biography,Drama",8.416666666666666,158
+1148,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",9.1875,158
+1263,Thor: Ragnarok,"Action,Adventure,Comedy",8.583333333333334,158
+1311,Untamed Heart,"Drama,Romance",7.764705882352941,158
+1325,Veer-Zaara,"Drama,Family,Musical",8.692307692307692,158
+1381,X-Men: First Class,"Action,Adventure,Sci-Fi",8.307692307692308,158
